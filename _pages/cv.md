@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+You can download my Curriculum Vitae at [here](../files/cv.pdf).
