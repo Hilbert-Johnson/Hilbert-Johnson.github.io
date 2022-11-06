@@ -11,20 +11,15 @@ redirect_from:
 ## About me
 Greetings! I’m a **Junior** now at School of AI, Nanjing University. In next semester, i.e. 23spring, I will be an exchange student at Department of Computer Science, National University of Singapore. (Look forward to meeting you guys in Singapore!)
 
-I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
-
-Nowadays I work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to Robotics.
-
+I’m currently a Research Intern at [NJU NLP Group](http://nlp.nju.edu.cn/homepage/) and I'm advised by [Prof. Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/). Nowadays I also work close with [Prof. Lin Shao](https://linsats.github.io/) and do research related to Robotics.  
 My research interest now mainly lies at Natural Language Processing especially Nerual Machine Translation, and Robotics especially Robot Cloth Manipulation by Differentiable Dimulation.
 
 I'm going to apply for CSE Phd by the end of 2023, so feel free to contact me by [email](mailto:zhaosh@smail.nju.edu.cn) if you have Phd/Intern positions or any related suggestions!
 
-&emsp;
 ## Publications
 **Nearest Neighbor Data Selection for Domain Adaptation**   
-Draft (Prepare for ACL2023)
+Draft (prepare for ACL'2023)
 
-&emsp;
 ## CV 
 You can download my Curriculum Vitae at [here](files/cv.pdf).
 
